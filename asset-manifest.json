@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-shop/static/css/main.b5db9f30.chunk.css",
-    "main.js": "/react-shop/static/js/main.67c7772d.chunk.js",
-    "main.js.map": "/react-shop/static/js/main.67c7772d.chunk.js.map",
-    "runtime-main.js": "/react-shop/static/js/runtime-main.10be6746.js",
-    "runtime-main.js.map": "/react-shop/static/js/runtime-main.10be6746.js.map",
-    "static/js/2.9fc19780.chunk.js": "/react-shop/static/js/2.9fc19780.chunk.js",
-    "static/js/2.9fc19780.chunk.js.map": "/react-shop/static/js/2.9fc19780.chunk.js.map",
-    "static/js/3.e80426a5.chunk.js": "/react-shop/static/js/3.e80426a5.chunk.js",
-    "static/js/3.e80426a5.chunk.js.map": "/react-shop/static/js/3.e80426a5.chunk.js.map",
-    "index.html": "/react-shop/index.html",
-    "static/css/main.b5db9f30.chunk.css.map": "/react-shop/static/css/main.b5db9f30.chunk.css.map",
-    "static/js/2.9fc19780.chunk.js.LICENSE.txt": "/react-shop/static/js/2.9fc19780.chunk.js.LICENSE.txt",
-    "static/media/Home.module.css": "/react-shop/static/media/Profile-bcg.f639d262.png"
+    "main.css": "/ReactProject1/static/css/main.dbccbb08.chunk.css",
+    "main.js": "/ReactProject1/static/js/main.67c7772d.chunk.js",
+    "main.js.map": "/ReactProject1/static/js/main.67c7772d.chunk.js.map",
+    "runtime-main.js": "/ReactProject1/static/js/runtime-main.9737d339.js",
+    "runtime-main.js.map": "/ReactProject1/static/js/runtime-main.9737d339.js.map",
+    "static/js/2.9fc19780.chunk.js": "/ReactProject1/static/js/2.9fc19780.chunk.js",
+    "static/js/2.9fc19780.chunk.js.map": "/ReactProject1/static/js/2.9fc19780.chunk.js.map",
+    "static/js/3.e80426a5.chunk.js": "/ReactProject1/static/js/3.e80426a5.chunk.js",
+    "static/js/3.e80426a5.chunk.js.map": "/ReactProject1/static/js/3.e80426a5.chunk.js.map",
+    "index.html": "/ReactProject1/index.html",
+    "static/css/main.dbccbb08.chunk.css.map": "/ReactProject1/static/css/main.dbccbb08.chunk.css.map",
+    "static/js/2.9fc19780.chunk.js.LICENSE.txt": "/ReactProject1/static/js/2.9fc19780.chunk.js.LICENSE.txt",
+    "static/media/Home.module.css": "/ReactProject1/static/media/Profile-bcg.f639d262.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.10be6746.js",
+    "static/js/runtime-main.9737d339.js",
     "static/js/2.9fc19780.chunk.js",
-    "static/css/main.b5db9f30.chunk.css",
+    "static/css/main.dbccbb08.chunk.css",
     "static/js/main.67c7772d.chunk.js"
   ]
 }
