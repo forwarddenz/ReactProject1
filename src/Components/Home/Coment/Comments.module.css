@@ -1,0 +1,13 @@
+.Comments {
+    display: flex;
+    margin-bottom: 30px;
+}
+.Comments img {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+}
+.comment {
+    margin-left: 25px;
+    margin-top: 20px;
+}

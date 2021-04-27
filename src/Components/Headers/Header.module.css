@@ -1,0 +1,68 @@
+header {
+    display: flex;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 20px;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
+    color: #54ADFF;
+}
+.nav {
+    display: flex;
+}
+.Search {
+    padding-left: 150px;
+    display: flex;
+}
+.logoHeader {
+    width: 120px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 150px;
+}
+.navItem {
+    margin-right: 45px;
+    font-size: 30px;
+    margin-top: 47px;
+    padding-bottom: 0;
+    height: 40px;
+    border-bottom: 0px solid #000;
+    transition: all 0.1s ease;
+    cursor: pointer;
+}
+.input {
+    width: 400px;
+    height: 40px;
+    margin-top: 41px;
+    font-size: 20px;
+    border: none;
+    border-bottom: 1px solid #54ADFF;
+}
+.iconSearch {
+    padding-top: 43px;
+    padding-left: 16px;
+}
+.theme {
+    margin-left: 60px;
+    margin-top: 48px;
+    font-size: 30px;
+    border: 1px solid #000;
+    width: 116px;
+    height: 40px;
+    padding-left: 5px;
+    background-color: transparent;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.theme p {
+    margin: 0;
+    padding: 0;
+}
+.theme:hover {
+    background-color: #000;
+    color: rgb(255, 255, 255);
+}
